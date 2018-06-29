@@ -5,3 +5,26 @@
 * [Github上如何取消fork别人的repository](https://blog.csdn.net/allenzyoung/article/details/50302471)
 * [使用git克隆指定分支的代码](https://www.cnblogs.com/nylcy/p/6569284.html)
 * [熟练使用Issues](https://blog.csdn.net/github_30605157/article/details/52837864)
+
+* [Git Your branch is ahead of 'origin/master' by X commits解决方法](https://github.com/HuangCongQing/github-help/issues/4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
