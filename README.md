@@ -1,4 +1,10 @@
 # github-help
+
+@ [ChungKing](https://github.com/HuangCongQing/github-help)，若fork或star请注明来源
+
+
+### Something
+
 * [学生和教育人士可免费申请 Github 私有仓库 - CSDN博客](https://blog.csdn.net/jxjgssylsg/article/details/51505395)
 * [私有仓库变为公有仓库，共有仓库变为私有仓库--待定]()
 * [Github使用.gitignore文件忽略不必要上传的文件](https://blog.csdn.net/gjy211/article/details/51607347)
@@ -8,6 +14,19 @@
 
 * [Git Your branch is ahead of 'origin/master' by X commits解决方法](https://github.com/HuangCongQing/github-help/issues/4)
 
+
+
+### Funny
+
+* 中国Rank ：http://githubrank.com/
+
+
+
+
+### License
+Copyright (c) [ChungKing](https://github.com/HuangCongQing/github-help). All rights reserved.
+
+Licensed under the MIT License.
 
 
 
