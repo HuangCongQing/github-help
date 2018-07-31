@@ -14,7 +14,8 @@
 
 * [Git Your branch is ahead of 'origin/master' by X commits解决方法](https://github.com/HuangCongQing/github-help/issues/4)
 
-
+* [](Github仓库, 如何让某些捣乱的人, 不乱提issue ?)
+* [](https://segmentfault.com/q/1010000008322159?_ea=1617922)
 
 ### Funny
 
