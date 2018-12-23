@@ -16,6 +16,8 @@
 
 * [Github仓库, 如何让某些捣乱的人, 不乱提issue ?](https://segmentfault.com/q/1010000008322159?_ea=1617922)
 
+*  [如何申请*GitHub*学生开发包,以及利用DigitalOcean的学生..._CSDN博客](https://blog.csdn.net/iwts_24/article/details/82868144)
+
 ### Funny
 
 * 中国Rank ：http://githubrank.com/
