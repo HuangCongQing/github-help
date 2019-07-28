@@ -2,6 +2,7 @@
 
 @ [ChungKing](https://github.com/HuangCongQing/github-help)，若fork或star请注明来源
 
+**官网已经发布中文github帮助：https://help.github.com/cn**
 
 ### Something
 
