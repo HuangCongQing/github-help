@@ -4,6 +4,8 @@
 
 **官网已经发布中文github帮助：https://help.github.com/cn**
 
+* https://hellogithub.com/
+
 ### Something
 
 * [学生和教育人士可免费申请 Github 私有仓库 - CSDN博客](https://blog.csdn.net/jxjgssylsg/article/details/51505395)
