@@ -21,6 +21,8 @@
 
 *  [如何申请*GitHub*学生开发包,以及利用DigitalOcean的学生..._CSDN博客](https://blog.csdn.net/iwts_24/article/details/82868144)
 
+
+* [如何上github找open project](https://note.youdao.com/ynoteshare1/index.html?id=0139acc2ec8b819dbcc359e5dd381cc2&type=note) 
 ### Funny
 
 * 中国Rank ：http://githubrank.com/
